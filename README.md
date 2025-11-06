@@ -1,2 +1,0 @@
-# chdevsui
-thejourney
